@@ -1,0 +1,30 @@
+.title-1 {
+    text-align: center;
+    color: #1F4690;
+    background-color: #94B49F;
+}
+
+.list-title-1 {
+    letter-spacing: 0.5rem;
+    color: #8E3200;
+}
+
+.section-1 {
+    padding-left: 5rem;
+    margin-left: 3rem;
+}
+
+.list-item-1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.title-2 {
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-bottom-color: #00F;
+}
+
+.title-3 {
+
+}
