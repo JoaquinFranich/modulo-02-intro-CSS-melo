@@ -43,3 +43,28 @@
     border-width: 2px;
     border-color: #0F0;
 }
+
+.section-3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-section-3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.header-section-3 h1 {
+    font-size: 3rem;
+}
+
+.section-3 legend, label {
+    font-weight: bold;
+}
+
+#send {
+    width: 8rem;
+    height: 3rem;
+    margin-left: 14rem;
+    font-size: 1rem;
+    font-weight: bold;
+}
