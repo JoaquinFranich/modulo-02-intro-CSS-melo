@@ -26,5 +26,20 @@
 }
 
 .title-3 {
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkgrey;
+}
 
+.list-title-3-1 {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-width: 4px;
+    border-color: #F00;
+}
+
+.list-title-3-2 {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0F0;
 }
